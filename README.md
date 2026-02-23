@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krougeprojects
 - 👀 I’m interested in becoming a software engineer
-- 🌱 I’m currently learning php
+- 🌱 I’m currently learning php, java and Javascript 
 - 💞️ I’m looking to collaborate on projects that will assist me in broadening my skill
 - 📫 How to reach me drop me a dm.
 
